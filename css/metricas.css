@@ -1,0 +1,24 @@
+.metricas{
+    display: flex;
+    padding: 0 2em;
+    margin-bottom: 3em;
+}
+
+.metrica{
+    display: flex;
+    flex-direction: column;
+    padding: 0 2em;
+}
+
+.metrica__numero{
+    font-size: 61px;
+    color: var(--vermelho);
+    font-weight: bold;
+}
+
+.metrica__info{
+    font-size: 18px;
+    padding: .7em 0;
+    color: var(--preto);
+    font-weight: 500;
+}

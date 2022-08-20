@@ -1,0 +1,61 @@
+.vagas{
+    margin-top: 12em;
+    text-align: center;
+}
+
+.vagas-abertas{
+    background: rgba(142, 36, 36, 0.05);
+    color: var(--vermelho);
+    font-size: 14px;
+}
+
+.vagas__titulo{
+    color: var(--preto);
+    font-size: 36px;
+    font-weight: 700;
+    margin: 1em 0;
+}
+
+.vagas__texto{
+    font-size: 21px;
+    margin-bottom: 4em;
+}
+
+/**Vagas ofertadas**/
+
+.design{
+    color: var(--preto);
+    padding: 5em 23em 3em;
+    text-align: start;
+}
+.desenvolvimento{
+    color: var(--preto);
+    padding: 0em 23em;
+    text-align: start;
+}
+
+.vaga__titulo{
+    font-size: 20px;
+    font-weight: 700;
+    margin-bottom: 2em;
+}
+
+.vaga__descricao{
+    border: 1px solid var(--cinza-claro);
+    border-radius: 16px;
+    margin: 1.5em 0;
+    padding: 1em;
+}
+
+.vaga__funcao{
+    font-size: 18px;
+    margin-bottom: 1.5em;
+}
+
+.vaga__tempo, .vaga__salario{
+    color: var(--cinza);
+    font-size: 16px;
+    font-weight: 300;
+    margin-right: 1.8em;
+}
+

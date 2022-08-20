@@ -1,0 +1,38 @@
+.depoimentos{
+    background: rgba(142, 36, 36, 0.04);
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin: 7em auto;
+    padding: 3em;
+    text-align: center;
+    width: 1216px;
+}
+
+.depoimentos__texto{
+    color: var(--vermelho);
+    font-size: 14px;
+    font-weight: 300;
+}
+
+.depoimentos__titulo{
+    color: var(--preto);
+    font-size: 36px;
+    margin: 1em 0;
+}
+
+.depoimentos__avatar{
+    width: 90px;
+    height: 90px;
+    margin-bottom: .4em;
+}
+
+.depoimentos__nome{
+    color: var(--preto);
+    margin: .6em 0;
+}
+
+.depoimentos__funcao{
+    font-size: 14px;
+    font-weight: 300;
+}

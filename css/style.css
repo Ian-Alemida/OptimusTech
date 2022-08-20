@@ -1,0 +1,23 @@
+@import url(header.css);
+@import url(banner.css);
+@import url(metricas.css);
+@import url(vagas.css);
+@import url(depoimentos.css);
+
+:root{
+    --cinza: #667085;
+    --cinza-claro: #EAECF0;
+    --vermelho: #8E2424;
+    --preto: #101828;
+    --branco: #ffffff;
+    --fonte-principal: 'Inter', sans-serif;;
+}
+
+body{
+    background-color: #ffffff;
+    color: var(--cinza);
+    font-family: var(--fonte-principal);
+    font-weight: 400;
+    width: 1440px;
+    margin: 0 auto;
+}
