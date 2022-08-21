@@ -3,6 +3,7 @@
 @import url(metricas.css);
 @import url(vagas.css);
 @import url(depoimentos.css);
+@import url(contato.css);
 
 :root{
     --cinza: #667085;
