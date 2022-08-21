@@ -39,3 +39,9 @@
     border-radius: 11px;
     margin-left: 1em;
 }
+
+/** :: **/
+
+.button-cadastrar:hover{
+    transform: scale(1.03);
+}
